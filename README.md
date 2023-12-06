@@ -1,4 +1,4 @@
-#### BizCardX: Business Card Data Extraction with OCR
+### BizCardX: Business Card Data Extraction with OCR
 BizCardX is a Streamlit application designed to simplify the process of extracting relevant information from business cards. The application utilizes easyOCR for Optical Character Recognition, allowing users to upload business card images and extract details such as company name, cardholder name, designation, contact information, and address.
 
 ## Features
