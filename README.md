@@ -21,17 +21,16 @@ numpy: 1.21.2
 pandas: 1.3.3
 opencv-python-headless: 4.5.3.56
 
-#### Usage
-Clone the repository:
-
+### Usage
+#### Clone the repository:
 git clone https://github.com/your-pallavghoshal/BizCardX.git
-Navigate to the project directory:
 
+#### Navigate to the project directory:
 cd BizCardX
+
 #### Install dependencies:
-
 pip install -r requirements.txt
-#### Run the application:
 
+#### Run the application:
 streamlit run app.py
 The application will be accessible in your web browser at http://localhost:8501.
